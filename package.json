@@ -1,0 +1,22 @@
+{
+  "name": "learning-sass",
+  "version": "1.0.0",
+  "description": "Code written while learning the basics of Sass",
+  "scripts": {
+    "build": "sass scss:css",
+    "watch": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iankuratri/learning-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iankuratri/learning-sass/issues"
+  },
+  "homepage": "https://github.com/iankuratri/learning-sass#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  }
+}
